@@ -1,3 +1,5 @@
+#POORLY OPTIMIZED NEEDS WORK
+
 #import evdev
 from evdev import InputDevice, categorize, ecodes
 from time import sleep
